@@ -1,0 +1,29 @@
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {      
+      "text": Data1+" \n"+Data5+" \nสถานที่ :"+Data4
+      }
+
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "PM2.5 Dust content",
+        "weight": "bold",
+        "align": "center",
+        "color": "#3300ff"
+      },
+      {
+        "type": "text",
+        "text": "ปริมาณค่าฝุ่น PM2.5",
+        "weight": "bold",
+        "size" : "xl",
+        "align": "center",
+        "color": "#00ff66" 
+      },
